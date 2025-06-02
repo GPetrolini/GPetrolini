@@ -10,9 +10,9 @@ Atualmente, estou focado em fortalecer minhas habilidades em Engenharia de Dados
 
 Projetos em andamento:
 
-Curso de Engenharia de Dados com Python - Repositório do curso
+Curso de Engenharia de Dados com Python -https://github.com/GPetrolini/Domine-a-Engenharia-de-Dados-Curso-Udemy
 
-Sistema de Gerenciamento de Estoque em Java e MySQL - Repositório
+Sistema de Gerenciamento de Estoque em Java e MySQL - https://github.com/GPetrolini/A3psc
 
 Experiência:
 
