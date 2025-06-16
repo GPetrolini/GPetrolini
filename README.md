@@ -30,7 +30,7 @@ Estou sempre aprendendo e me aprofundando nas ferramentas que moldam o futuro da
 * Suporte na resolução de problemas e manutenção básica em servidores Linux.
 
 **Estagiário N1 | Deltacon Consultoria e Informática**
-*(Dezembro de 2023 - Maio de 2025)*
+*(Dezembro de 2024 - Maio de 2025)*
 * Atuação em suporte técnico a sistemas ERP, resolvendo problemas e garantindo a satisfação do cliente.
 * Participação em processos de implantação e testes de novas funcionalidades do sistema.
 
