@@ -74,5 +74,5 @@ Estou sempre aprendendo e me aprofundando nas ferramentas que moldam o futuro. A
 
 Vamos nos conectar e trocar experiências!
 
-<a href="https://www.linkedin.com/in/gustavo-petrolini/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/gustavo-petrolini-885080213/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:guspetrolini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
