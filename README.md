@@ -14,15 +14,6 @@ Sou um **Desenvolvedor Estagiário** e estudante de **Análise e Desenvolvimento
 Minha jornada é marcada pela curiosidade e pela aplicação prática dos estudos. Atualmente na **Vios Tecnologia**, aplico e expando minhas habilidades em um ambiente profissional, trabalhando com sistemas legados e novas funcionalidades.
 
 ---
-
-### 🚀 Habilidades e Tecnologias
-
-Estou sempre aprendendo e me aprofundando nas ferramentas que moldam o futuro. Atualmente, meus estudos e práticas estão concentrados em:
-
-* **Linguagens de Programação:**
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-    ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
 ### 🚀 Habilidades e Tecnologias
 
 Estou sempre aprendendo e me aprofundando nas ferramentas que moldam o futuro. Atualmente, meus estudos e práticas estão concentrados em:
