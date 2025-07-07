@@ -23,20 +23,35 @@ Estou sempre aprendendo e me aprofundando nas ferramentas que moldam o futuro. A
     ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
     ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+### 🚀 Habilidades e Tecnologias
+
+Estou sempre aprendendo e me aprofundando nas ferramentas que moldam o futuro. Atualmente, meus estudos e práticas estão concentrados em:
+
+* **Linguagens de Programação:**
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+
 * **Engenharia de Dados & Bancos de Dados:**
     * **Ferramentas:** Pandas, ETL
-    * **SQL:** PostgreSQL, SQLite, SQL Server, MySQL
-    * **Cloud:** Google BigQuery
-    * **NoSQL:** MongoDB
+    * **SQL:** <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+        <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    * **Cloud:**
+        <img src="https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery"/>
+    * **NoSQL:**
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 
 * **Desenvolvimento Web:**
-    * HTML5, CSS3, e a aplicação de PHP para criar sistemas dinâmicos.
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 
 * **Versionamento e Colaboração:**
-    * Git e GitHub, utilizados diariamente para gerenciar e sincronizar projetos.
+    <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 
 * **Sistemas Operacionais:**
-    * Conhecimentos em ambiente Linux para manutenção e resolução de problemas.
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 
 ---
 
