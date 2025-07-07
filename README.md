@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Gustavo Antony Petrolini!
+# 👋 Olá, eu sou o Gustavo Petrolini!
 
 <div align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
