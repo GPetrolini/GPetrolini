@@ -46,33 +46,19 @@ Estou sempre aprendendo e me aprofundando nas ferramentas que moldam o futuro. A
 
 ---
 
-### 💼 Experiência Profissional
-
-**Desenvolvedor Estagiário | Vios Tecnologia** <br>
-*(Junho de 2025 - Atualmente)*
-* Manutenção e desenvolvimento de novas funcionalidades em sistemas legados **PHP**, incluindo integrações com diversos serviços externos.
-* Desenvolvimento e manutenção de interfaces de usuário utilizando **HTML, CSS e JavaScript**.
-* Manutenção de bases de dados para garantir a integridade e performance das aplicações.
-* Participação ativa no levantamento e análise de requisitos diretamente com os clientes.
-* Suporte na resolução de problemas e manutenção básica em servidores **Linux**.
-
-**Estagiário N1 | Deltacon Consultoria e Informática** <br>
-*(Dezembro de 2024 - Maio de 2025)*
-* Atuação em suporte técnico a sistemas ERP, resolvendo problemas e garantindo a satisfação do cliente.
-* Participação em processos de implantação e testes de novas funcionalidades do sistema.
-
----
-
 ### 📂 Projetos em Destaque
 
-* **[Domine a Engenharia de Dados com Python](https://github.com/GPetrolini/Data-Engineer-With-Python)**
+* **[Domine a Engenharia de Dados com Python](https://github.com/GPetrolini/Domine-a-Engenharia-de-Dados-Curso-Udemy)**
     * Repositório com todos os meus estudos e projetos práticos do curso da Udemy, focado em todo o ecossistema de dados.
 
 * **[Aplicação CRUD em PHP](https://github.com/GPetrolini/ItensGamer-CRUD-PHP)**
     * Sistema de gerenciamento de produtos desenvolvido em PHP puro, criado para solidificar conceitos de desenvolvimento backend, interação com banco de dados e versionamento com Git.
 
-* **[Sistema de Gerenciamento de Estoque](https://github.com/GPetrolini/Stock-Management-System)**
+* **[Sistema de Gerenciamento de Estoque](https://github.com/GPetrolini/A3psc)**
     * Aplicação desktop desenvolvida em Java e MySQL para controle de entrada e saída de estoque.
+
+* **[Pipeline de ETL para Análise de estátisticas de CS2](https://github.com/GPetrolini/projeto-etl-cs)**
+    * Pipeline de ETL que usa Python e Pandas para extrair dados de um CSV, transformar em métricas de jogadores de CS2 e carregar em um banco de dados para análise.
 
 ---
 
