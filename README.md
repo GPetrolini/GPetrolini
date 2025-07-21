@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img src="URL_DA_SUA_IMAGEM_DE_BANNER_AQUI" width="900" />
-</p>
-
 <h1 align="center">👋 Olá, eu sou o Gustavo Petrolini!</h1>
 <h3 align="center">Desenvolvedor Estagiário | Análise e Desenvolvimento de Sistemas</h3>
 
