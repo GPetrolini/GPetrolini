@@ -1,3 +1,4 @@
+
 <h1 align="center">👋 Olá, eu sou o Gustavo Petrolini!</h1>
 <h3 align="center">Desenvolvedor Estagiário | Análise e Desenvolvimento de Sistemas</h3>
 
@@ -7,12 +8,7 @@
 <br>
 
 <h3 align="center">Minhas Ferramentas e Tecnologias</h3>
-<p align="center"> <img src="https://skillicons.dev/icons?i=php,python,mysql,postgres,pd,git,github,linux,docker&perline=9" /> </p>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GPetrolini&show_icons=true&locale=pt-br&theme=dracula&count_private=true" alt="Estatísticas do Gustavo no GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GPetrolini&layout=compact&locale=pt-br&theme=dracula" alt="Linguagens mais usadas por Gustavo"/>
-</div>
+<p align="center"> <img src="https://skillicons.dev/icons?i=php,python,mysql,postgres,git,github,linux,docker&perline=8" /> </p>
 
 ---
 ### 📂 Projetos em Destaque
